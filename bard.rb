@@ -1,1 +1,1 @@
-puts "alas yorick"
+puts "alas poor yorick, I knew him well"
